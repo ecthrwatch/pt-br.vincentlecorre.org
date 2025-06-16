@@ -67,70 +67,18 @@
                     hreflang="pt-br"
                     href="https://pt-br.vincentlecorre.org/categories/"
                     /></url><url>
-            <loc>https://pt-br.vincentlecorre.org/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="ar"
-                        href="https://ar.vincentlecorre.org/"
-                        /><xhtml:link
+            <loc>https://pt-br.vincentlecorre.org/arvore-da-luz/</loc><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://www.lushengqiao.com/"
+                        href="https://www.lushengqiao.com/guang-zhi-shu/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="https://zh-hant.lushengqiao.com/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="nl"
-                        href="https://nl.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://www.vincentlecorre.fr/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="de"
-                        href="https://de.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="hi"
-                        href="https://hi.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="it"
-                        href="https://it.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ja"
-                        href="https://ja.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="pl"
-                        href="https://pl.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ro"
-                        href="https://ro.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="https://ru.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="es"
-                        href="https://es.vincentlecorre.org/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="uk"
-                        href="https://ua.vincentlecorre.org/"
+                        href="https://zh-hant.lushengqiao.com/guang-zhi-shu/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="pt-br"
-                    href="https://pt-br.vincentlecorre.org/"
+                    href="https://pt-br.vincentlecorre.org/arvore-da-luz/"
                     /></url><url>
             <loc>https://pt-br.vincentlecorre.org/tags/</loc><xhtml:link
                         rel="alternate"
@@ -196,4 +144,69 @@
                     rel="alternate"
                     hreflang="pt-br"
                     href="https://pt-br.vincentlecorre.org/tags/"
+                    /></url><url>
+            <loc>https://pt-br.vincentlecorre.org/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="ar"
+                        href="https://ar.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://www.lushengqiao.com/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-tw"
+                        href="https://zh-hant.lushengqiao.com/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="nl"
+                        href="https://nl.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://www.vincentlecorre.fr/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="https://de.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="hi"
+                        href="https://hi.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://it.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="https://ja.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="pl"
+                        href="https://pl.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ro"
+                        href="https://ro.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://ru.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="https://es.vincentlecorre.org/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="uk"
+                        href="https://ua.vincentlecorre.org/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="pt-br"
+                    href="https://pt-br.vincentlecorre.org/"
                     /></url></urlset>
