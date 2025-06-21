@@ -80,9 +80,30 @@
                         hreflang="zh-tw"
                         href="https://zh-hant.lushengqiao.com/guang-zhi-shu/"
                         /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://ru.vincentlecorre.org/top/"
+                        /><xhtml:link
                     rel="alternate"
                     hreflang="pt-br"
                     href="https://pt-br.vincentlecorre.org/arvore-da-luz/"
+                    /></url><url>
+            <loc>https://pt-br.vincentlecorre.org/arvore-da-luz/soldado-de-deus/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="ar"
+                        href="https://ar.vincentlecorre.org/shajarat-an-noor/jundi-allah/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://www.lushengqiao.com/guang-zhi-shu/shen-zhan-shi/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-tw"
+                        href="https://zh-hant.lushengqiao.com/guang-zhi-shu/shen-zhan-shi/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="pt-br"
+                    href="https://pt-br.vincentlecorre.org/arvore-da-luz/soldado-de-deus/"
                     /></url><url>
             <loc>https://pt-br.vincentlecorre.org/tags/</loc><xhtml:link
                         rel="alternate"
